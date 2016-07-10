@@ -1,2 +1,7 @@
 bower_components
 node_modules
+app/config.codekit
+
+app/min/app-min.js
+
+config.codekit
